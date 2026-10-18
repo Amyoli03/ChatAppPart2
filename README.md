@@ -1,7 +1,7 @@
 # ChatAppPart2 (QuickChat)
 
 PROG5121 Programming 1A: Part 2, Sending Messages
-Student: [Your name] | Student number: [Your student number]
+Student: [Amyoli Louw] | Student number: [ST10535093]
 
 A Java console application built with Maven. It extends the Part 1 registration and login system with QuickChat, a messaging feature that only a logged-in user can access.
 
